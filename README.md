@@ -1,5 +1,9 @@
 # Visualize Ontario's Electricity Market Demand
 
+***Prepared by Nathan K. Chan***
+
+## Overview
+
 This project produces and hosts **interactive 3D visualizations of Ontario's market demand for electricity** by year, date, and time of day.
 
 Source data are published by the **Independent Electricity Systems Operator (IESO) of Ontario** and are available [here](http://reports.ieso.ca/public/Demand/). 
