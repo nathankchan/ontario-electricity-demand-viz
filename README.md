@@ -2,6 +2,8 @@
 
 ***Prepared by Nathan K. Chan***
 
+**To visit this project on github, please visit this link:** [**https://github.com/nathankchan/ontario-electricity-demand-viz**](https://github.com/nathankchan/ontario-electricity-demand-viz)
+
 ## Overview
 
 This project produces and hosts **interactive 3D visualizations of Ontario's market demand for electricity** by year, date, and time of day.
@@ -12,7 +14,7 @@ For information on how to download and run this project, see [**Project Descript
 
 <center><img src="example.png" width="75%"/></center>
 
-## List of visualizations
+## List of Visualizations
 
 Click on a link below to view the respective plot.
 
