@@ -8,7 +8,7 @@
 
 This project produces and hosts **interactive 3D visualizations of Ontario's market demand for electricity** by year, date, and time of day.
 
-Source data are published by the **Independent Electricity Systems Operator (IESO) of Ontario** and are available [here](http://reports.ieso.ca/public/Demand/). 
+Source data are published by the **Independent Electricity System Operator (IESO) of Ontario** and are available [here](http://reports.ieso.ca/public/Demand/). 
 
 For information on how to download and run this project, see [**Project Description**](#project-description).
 
