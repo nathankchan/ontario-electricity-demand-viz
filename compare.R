@@ -187,3 +187,4 @@ plot_all <- suppressWarnings(subplot(plot1, plot2, plot3, plot4) %>%
 filename_out <- paste0("plots/", plot_year1, "_to_", plot_year4, "_Ontario_Hourly_Market_Demand_Comparison")
 saveWidget(plot_all, paste0(filename_out, ".html"))
 unlink(paste0(filename_out, "_files"), recursive = T)
+message("Plot of ", plot_year1, " to ", plot_year4, " data saved to ", filename_out)
