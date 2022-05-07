@@ -1,19 +1,12 @@
----
-title: "Visualize Ontario's Electricity Market Demand"
-author: "Nathan K. Chan"
----
+# Visualize Ontario's Electricity Market Demand
 
 This project produces and hosts **interactive 3D visualizations of Ontario's market demand for electricity** by year, date, and time of day.
 
 Source data are published by the **Independent Electricity Systems Operator (IESO) of Ontario** and are available [here](http://reports.ieso.ca/public/Demand/). 
 
-For information on how to download and run this project, see [**Project Description**](#description).
-
-***
+For information on how to download and run this project, see [**Project Description**](#project-description).
 
 <center><img src="example.png" width="75%"/></center>
-
-***
 
 ## List of visualizations
 
@@ -57,7 +50,7 @@ Click on a link below to view the respective plot.
 7. [**2003 Ontario Hourly Market Demand**](https://nathankchan.github.io/ontario-electricity-demand-viz/plots/2003_Ontario_Hourly_Market_Demand.html)
 8. [**2002 Ontario Hourly Market Demand**](https://nathankchan.github.io/ontario-electricity-demand-viz/plots/2002_Ontario_Hourly_Market_Demand.html)
 
-## Project Description {#description}
+## Project Description
 
 **This project requires** ***R*** **to be installed.** If it is not installed, please visit [r-project.org](https://www.r-project.org/) to download the latest version. This project also requires the following **R** packages to be installed:
 
