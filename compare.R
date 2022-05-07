@@ -127,7 +127,7 @@ plot2 <- plot_demand(plot_data2, "scene2")
 plot3 <- plot_demand(plot_data3, "scene3")
 plot4 <- plot_demand(plot_data4, "scene4")
 
-plot_title <- paste0("<b>Ontario Hourly Electricity Market Demand</b><br><b><i>", plot_year1, " to ", plot_year4, "</b></i>")
+plot_title <- paste0("<br><b>Ontario Hourly Electricity Market Demand</b><br><b><i>", plot_year1, " to ", plot_year4, "</b></i>")
 
 plot_all <- suppressWarnings(subplot(plot1, plot2, plot3, plot4) %>%
   layout(

@@ -19,7 +19,7 @@ args <- commandArgs(trailingOnly = TRUE)
 filename <- args[1]
 mydata <- read.csv(file = filename, skip = 3)
 fileyear <- substr(mydata$Date[1], 1, 4)
-plot_title <- paste0("<b>", fileyear, " Ontario Hourly Market Demand</b>")
+plot_title <- paste0("<br><b>", fileyear, " Ontario Hourly Market Demand</b>")
 filename_out <- paste0("plots/", fileyear, "_Ontario_Hourly_Market_Demand.html")
 
 plot_data <- mydata[, c("Date", "Hour", "Market.Demand")] %>% 
