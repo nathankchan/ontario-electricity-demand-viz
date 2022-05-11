@@ -1,18 +1,26 @@
-# Visualize Ontario's Electricity Market Demand
+# Visualize Ontario's Electricity Demand
 
 ***Prepared by Nathan K. Chan***
 
-**To visit this project on github, please visit this link:** [**https://github.com/nathankchan/ontario-electricity-demand-viz**](https://github.com/nathankchan/ontario-electricity-demand-viz)
+**To visit this project on Github, please visit this link:** [**https://github.com/nathankchan/ontario-electricity-demand-viz**](https://github.com/nathankchan/ontario-electricity-demand-viz)
+
+**To access the online application, please visit:** [**https://nathankchan.shinyapps.io/ontario-electricity-demand-viz/**](https://nathankchan.shinyapps.io/ontario-electricity-demand-viz/)
 
 ## Overview
 
-This project produces and hosts **interactive 3D visualizations of Ontario's market demand for electricity** by year, date, and time of day.
+This project hosts **interactive visualizations of Ontario's demand for electricity** by year, date, and time of day.
+
+[***Visit the app***](https://nathankchan.shinyapps.io/ontario-electricity-demand-viz/) to generate custom visualizations of both market and Ontario demand for electricity, as well as surface plots, line charts, and heatmaps.
+
+<center><img src="example1.png" width="75%"/></center>
+
+You can also access pre-rendered plots of Ontario's *Market Demand* [below](#list-of-visualizations).
 
 Source data are published by the **Independent Electricity System Operator (IESO) of Ontario** and are available [here](http://reports.ieso.ca/public/Demand/). 
 
 For information on how to download and run this project, see [**Project Description**](#project-description).
 
-<center><img src="example.png" width="75%"/></center>
+<center><img src="example2.png" width="50%"/></center>
 
 ## List of Visualizations
 
@@ -63,6 +71,7 @@ Click on a link below to view the respective plot.
   * [*tidyverse*](https://www.tidyverse.org/)
   * [*plotly*](https://plotly.com/r/)
   * [*htmlwidgets*](https://www.htmlwidgets.org/)
+  * [*shiny*](https://shiny.rstudio.com/) (for interactive Shiny app)
 
 To run this project locally, download the repository and set your directory to the project directory. Then, run `run.sh` from terminal. 
 
@@ -71,4 +80,11 @@ Annual hourly demand reports from IESO will be downloaded to `{project_dir}/data
 ```{sh}
 cd {project_dir}
 source run.sh
+```
+
+To load the interactive Shiny app locally, run `app.R` from terminal and visit the link (e.g., `http://127.0.0.1:{port}`). Quit terminal (press `CTRL+C`) to close the app. For example,
+
+```{sh}
+cd {project_dir}
+Rscript app.R
 ```
