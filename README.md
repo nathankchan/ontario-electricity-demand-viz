@@ -2,9 +2,9 @@
 
 ***Prepared by Nathan K. Chan***
 
-**To visit the project website, please visit this link:** [**https://nathankchan.github.io/ontario-electricity-demand-viz/**](https://nathankchan.github.io/ontario-electricity-demand-viz/)
+**To visit the project website, please visit:** [**https://nathankchan.github.io/ontario-electricity-demand-viz/**](https://nathankchan.github.io/ontario-electricity-demand-viz/)
 
-**To visit this project on Github, please visit this link:** [**https://github.com/nathankchan/ontario-electricity-demand-viz**](https://github.com/nathankchan/ontario-electricity-demand-viz)
+**To visit this project on Github, please visit:** [**https://github.com/nathankchan/ontario-electricity-demand-viz**](https://github.com/nathankchan/ontario-electricity-demand-viz)
 
 **To access the online application, please visit:** [**https://nathankchan.shinyapps.io/ontario-electricity-demand-viz/**](https://nathankchan.shinyapps.io/ontario-electricity-demand-viz/)
 
