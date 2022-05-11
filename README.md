@@ -18,11 +18,11 @@ This project hosts **interactive visualizations of Ontario's demand for electric
 
 You can also access pre-rendered plots of Ontario's *Market Demand* [below](#list-of-visualizations).
 
+<center><img src="example2.png" width="50%"/></center>
+
 Source data are published by the **Independent Electricity System Operator (IESO) of Ontario** and are available [here](http://reports.ieso.ca/public/Demand/). 
 
 For information on how to download and run this project, see [**Project Description**](#project-description).
-
-<center><img src="example2.png" width="50%"/></center>
 
 ## List of Visualizations
 
