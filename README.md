@@ -1,6 +1,8 @@
-# Visualize Ontario's Electricity Demand
+# Visualize Electricity Demand in Ontario
 
 ***Prepared by Nathan K. Chan***
+
+**To visit the project website, please visit this link:** [**https://nathankchan.github.io/ontario-electricity-demand-viz/**](https://nathankchan.github.io/ontario-electricity-demand-viz/)
 
 **To visit this project on Github, please visit this link:** [**https://github.com/nathankchan/ontario-electricity-demand-viz**](https://github.com/nathankchan/ontario-electricity-demand-viz)
 
@@ -10,7 +12,7 @@
 
 This project hosts **interactive visualizations of Ontario's demand for electricity** by year, date, and time of day.
 
-[***Visit the app***](https://nathankchan.shinyapps.io/ontario-electricity-demand-viz/) to generate custom visualizations of both market and Ontario demand for electricity, as well as surface plots, line charts, and heatmaps.
+[**Visit the app**](https://nathankchan.shinyapps.io/ontario-electricity-demand-viz/) to generate custom visualizations of both market and Ontario-specific demand for electricity, including **surface plots**, **line charts**, and **heat maps**.
 
 <center><img src="example1.png" width="75%"/></center>
 
